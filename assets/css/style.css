@@ -315,4 +315,7 @@ input[type=submit] {
   .work {
     width: 100%;
   }
+  .contact {
+      width: 61px;
+  }
 }
