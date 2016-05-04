@@ -290,6 +290,16 @@ input[type=submit] {
 }
 
 @media screen and (max-width: 640px) {
+  #masthead {
+    position: static;
+  }
+  h2,
+  h3 {
+    font-size: 10px;
+  }
+  #main-container {
+    padding-top: 0px;
+  }
   .container {
     width: 100%;
     max-width: 960px;
